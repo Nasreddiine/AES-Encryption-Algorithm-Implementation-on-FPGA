@@ -56,7 +56,7 @@ ghdl -e top_tb
 ghdl -r top_tb --vcd=waveforms/top_tb.vcd --stop-time=1000ns
 # Open waveform viewer
 gtkwave waveforms/top_tb.vcd
-![gtkwave](./Docs/waves.png)
+![gtkwave](./Docs/waves.jpg)
 ### Roadmap & Future Development
 
 There is always room for improvement in this project. Here are the planned enhancements for the near and distant future:
